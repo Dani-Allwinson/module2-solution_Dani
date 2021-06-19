@@ -1,11 +1,13 @@
 h1{
     text-align: center;
 }
-.container > div{
+.container > p{
     width: 320px;
   padding: 10px;
   border: 3px solid black;
   margin: 20px;
   padding-bottom: 20px;
+  background-color: grey;
+  box-sizing: content-box;
   
 }
